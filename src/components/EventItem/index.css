@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.list {
+  width: 45%;
+  display: flex;
+  margin-right: 10px;
+  flex-direction: column;
+}
+.button {
+  background-color: transparent;
+  outline: none;
+  border-width: none;
+  display: flex;
+  flex-direction: column;
+}
+.img {
+  width: 100%;
+  max-width: 300px;
+}
+.name {
+  font-size: 20px;
+  color: white;
+  font-family: roboto;
+  padding-bottom: none;
+}
+.location {
+  padding-top: none;
+  color: white;
+}

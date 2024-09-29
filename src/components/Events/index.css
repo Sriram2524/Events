@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.event-container {
+  background-color: #3a4b63;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 70%;
+}
+.container {
+  display: flex;
+
+  flex-direction: row;
+  width: 100%;
+}
+.active-con {
+  width: 30%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: white;
+  padding-left: 30px;
+}
+.unoredered {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

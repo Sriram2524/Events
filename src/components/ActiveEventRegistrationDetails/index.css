@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.initail-con {
+  text-align: center;
+  padding: 20px;
+}
+.initail {
+  color: #3a4b63;
+  font-family: roboto;
+  font-size: 20px;
+}
+.yet-torigister-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.yet-to-img {
+  width: 100%;
+  max-width: 300px;
+}
+.already-img {
+  width: 100%;
+  max-width: 100px;
+}
+.already-reg-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.registration-closed-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.registration-closed-img {
+  width: 100%;
+  max-width: 300px;
+}
+.registration-closed-img{
+  text-align: center;
+}
